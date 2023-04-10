@@ -1,8 +1,8 @@
-#🚀 | Introduction
+# 🚀 | Introduction
 
 This script is a Python script that can store the names and keys of APIs. You can create, load, and delete APIs using this script.
 
-#💻 | Installation
+# 💻 | Installation
 
 To install the script, simply run the following commands:
 
@@ -12,6 +12,6 @@ To install the script, simply run the following commands:
 
 `python main.py`
 
-#📞 | Contact
+# 📞 | Contact
 
 If you have any questions or concerns, please feel free to contact me via Discord at :discord: Status#8282.
