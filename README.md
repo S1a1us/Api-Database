@@ -14,4 +14,4 @@ To install the script, simply run the following commands:
 
 # 📞 | Contact
 
-If you have any questions or concerns, please feel free to contact me via Discord at :discord: Status#8282.
+If you have any questions or concerns, please feel free to contact me via Discord at Status#8282.
